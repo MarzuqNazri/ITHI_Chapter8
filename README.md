@@ -1,3 +1,4 @@
+[README.md](https://github.com/user-attachments/files/33797337/README.md)
 # Tourism Experience Control Centre — DHM1023 Chapter 8
 
 A bilingual (English/Bahasa Malaysia), browser-based learning game for **Diploma in Hotel Management** and **Diploma in Event Management** students studying **Introduction to Hospitality and Tourism Industry (DHM1023), Chapter 8: Recreation, Attractions, Festivals & Events, and Gaming Entertainment**.
@@ -22,7 +23,10 @@ A bilingual (English/Bahasa Malaysia), browser-based learning game for **Diploma
 ## Learning design
 - 10 progressive stations; later stations remain locked until the current challenge is answered correctly.
 - English and Bahasa Malaysia prompts and options.
-- Retry after an incorrect answer, explanatory feedback, progress indicator, score, result report and review section.
+- Students cannot advance after an incorrect answer; they must retry until correct.
+- On a correct answer, the game explains the concept and displays a specific connection to the Chapter 8 slide content before the student continues.
+- Scoring: 10 points for a correct answer on the first attempt; 5 points if the student needed one or more retries. Each question awards points only once, for a maximum of 100 points.
+- Progress indicator, result report and review section.
 - No countdown timer; approximately 15 minutes is a suggested classroom target.
 - Keyboard, mouse and touch-friendly controls; responsive layout.
 
